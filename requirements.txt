@@ -1,0 +1,5 @@
+# Conference Scheduler - core runtime dependencies
+# Install with: pip install -r requirements.txt
+pandas>=2.0,<3.0
+openpyxl>=3.1,<4.0
+pulp>=2.7,<4.0

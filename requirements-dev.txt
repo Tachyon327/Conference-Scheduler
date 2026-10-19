@@ -1,0 +1,3 @@
+# Extra dependencies for running the test suite (tests/test_scheduler_engine.py)
+-r requirements.txt
+pytest>=7.0
