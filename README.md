@@ -94,3 +94,7 @@ The app (zip) includes open-source software such as CBC (Eclipse Public License 
 - Switch the solver from CBC to HiGHS
 - Improve the definition of objective B (conflicts between simultaneous presentations)
 - Build a Windows app and support more macOS versions
+
+## Contact
+E-mail adress:
+mayoshion327@gmail.com
